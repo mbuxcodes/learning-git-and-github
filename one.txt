@@ -1,1 +1,2 @@
 this is a simple file
+to demonstrate how to read a file in react.js
